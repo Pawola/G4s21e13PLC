@@ -9,7 +9,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author David
+ * @author Paola
  */
 public class JFPrincipal extends javax.swing.JFrame {
     
